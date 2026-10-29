@@ -1,0 +1,17 @@
+#color-picker-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    gap: 8px;
+}
+
+h3{
+    color: #333;
+}
+
+input[type="color"] {
+    height: 40px;
+}
